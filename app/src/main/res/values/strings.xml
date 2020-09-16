@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tute06</string>
+
+    <string name="txtID"></string>
+    <string name="txtName"></string>
+    <string name="txtAdd"></string>
+    <string name="txtConNo"></string>
+
+    <string name="btnSave"> Save </string>
+    <string name="btnShow"> Show </string>
+    <string name="btnUpdate"> Update </string>
+    <string name="BtnDelete"> Delete </string>
+</resources>
